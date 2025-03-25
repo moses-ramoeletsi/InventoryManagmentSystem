@@ -1,6 +1,5 @@
 
 import React from "react";
-import { UserRole } from "../../context/AuthContext";
 import { UserData } from "../../types/user";
 import { Badge } from "../../components/ui/badge";
 import { Button } from "../../components/ui/button";
